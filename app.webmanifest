@@ -1,0 +1,11 @@
+{
+  "name": "OtoFiyat — Sıfır Otomobil Fiyatları",
+  "short_name": "OtoFiyat",
+  "description": "Türkiye'de satılan sıfır otomobillerin fiyatlarını keşfet ve karşılaştır.",
+  "lang": "tr-TR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f0",
+  "theme_color": "#155c43",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

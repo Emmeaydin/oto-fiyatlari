@@ -1,0 +1,937 @@
+{
+  "updatedAt": null,
+  "prices": {
+    "Dacia|Logan": [
+      {
+        "trim": "Ekim kampanyası · başlangıç fiyatı",
+        "price": 1340000
+      }
+    ],
+    "Dacia|Sandero": [
+      {
+        "trim": "expression TCe 100",
+        "price": 1390000,
+        "list": 1460000
+      }
+    ],
+    "Opel|Corsa": [
+      {
+        "trim": "Edition 1.2 100 HP Benzin MT6",
+        "price": 1335000,
+        "list": 1535000
+      },
+      {
+        "trim": "Edition Hybrid 1.2 110 (100 HP) e-DCT6",
+        "price": 1848000
+      },
+      {
+        "trim": "GS Hybrid 1.2 145 (136 HP) e-DCT6",
+        "price": 1955000
+      }
+    ],
+    "Fiat|Egea Sedan": [
+      {
+        "trim": "Easy 1.6 MultiJet 130 HP GSR Manuel",
+        "price": 1449900,
+        "list": 1499900
+      },
+      {
+        "trim": "Urban 1.6 MultiJet 130 HP GSR Manuel",
+        "price": 1519900,
+        "list": 1599900
+      },
+      {
+        "trim": "Lounge 1.6 MultiJet 130 HP GSR Manuel",
+        "price": 1589900,
+        "list": 1674900
+      },
+      {
+        "trim": "Easy 1.6 MultiJet 130 HP DCT GSR Otomatik",
+        "price": 1850900,
+        "list": 1950900
+      },
+      {
+        "trim": "Urban 1.6 MultiJet 130 HP DCT GSR Otomatik",
+        "price": 1920900,
+        "list": 2020900
+      },
+      {
+        "trim": "Lounge 1.6 MultiJet 130 HP DCT GSR Otomatik",
+        "price": 1990900,
+        "list": 2090900
+      }
+    ],
+    "Kia|Picanto": [
+      {
+        "trim": "1.0L 67 PS AMT Feel",
+        "price": 1460000
+      },
+      {
+        "trim": "1.0L 67 PS AMT Cool",
+        "price": 1460000
+      }
+    ],
+    "Citroën|ë-C3 Aircross": [
+      {
+        "trim": "Max 83 kW Standart Menzil",
+        "price": 1875000
+      },
+      {
+        "trim": "Collection 83 kW Uzun Menzil",
+        "price": 1990000
+      },
+      {
+        "trim": "Max 83 kW Uzun Menzil",
+        "price": 2020000
+      }
+    ],
+    "Ford|Puma": [
+      {
+        "trim": "ST-Line Black Edition 1.0L EcoBoost 125PS",
+        "price": 1998700
+      },
+      {
+        "trim": "Titanium 1.0L EcoBoost 125PS",
+        "price": 2171100,
+        "list": 2261200
+      },
+      {
+        "trim": "ST-Line X 1.0L EcoBoost 155PS",
+        "price": 2536400,
+        "list": 2641700
+      }
+    ],
+    "Togg|T10X": [
+      {
+        "trim": "V1 RWD Standart Menzil",
+        "price": 1909048
+      },
+      {
+        "trim": "V1 RWD Uzun Menzil",
+        "price": 2219668
+      },
+      {
+        "trim": "V2 RWD Uzun Menzil",
+        "price": 2411000
+      },
+      {
+        "trim": "V2 4More Obsidiyen",
+        "price": 3218137
+      }
+    ],
+    "Škoda|Kamiq": [
+      {
+        "trim": "Elite 1.0 TSI 115 PS DSG",
+        "price": 1962700,
+        "list": 2149900
+      },
+      {
+        "trim": "Premium 1.0 TSI 115 PS DSG",
+        "price": 1999900,
+        "list": 2569900
+      },
+      {
+        "trim": "Monte Carlo 1.5 TSI 150 PS DSG",
+        "price": 2389600,
+        "list": 2879900
+      },
+      {
+        "trim": "Premium 1.5 TSI 150 PS DSG",
+        "price": 2709900
+      }
+    ],
+    "Hyundai|Bayon": [
+      {
+        "trim": "1.0 T-GDI 90 PS MT Jump (GSR2C & E-Call)",
+        "price": 1645000,
+        "list": 1672000
+      },
+      {
+        "trim": "1.0 T-GDI 90 PS DCT Jump (GSR2C & E-Call)",
+        "price": 1665000,
+        "list": 1745000
+      },
+      {
+        "trim": "1.0 T-GDI 90 PS DCT Style (GSR2C & E-Call)",
+        "price": 1869832,
+        "list": 2067000
+      },
+      {
+        "trim": "1.0 T-GDI 90 PS DCT Elite (GSR2C & E-Call)",
+        "price": 2057000,
+        "list": 2212000
+      }
+    ],
+    "Hyundai|Inster": [
+      {
+        "trim": "71,1 kW Standart Menzil Dynamic",
+        "price": 1520000,
+        "list": 1670000
+      },
+      {
+        "trim": "84,5 kW Uzun Menzil Advance (2025)",
+        "price": 1695000,
+        "list": 1845000
+      },
+      {
+        "trim": "84,5 kW Uzun Menzil Advance",
+        "price": 1770000,
+        "list": 1920000
+      },
+      {
+        "trim": "84,5 kW Uzun Menzil Cross Advance",
+        "price": 1820000,
+        "list": 1970000
+      }
+    ],
+    "Hyundai|KONA": [
+      {
+        "trim": "2025 model",
+        "price": 2295000
+      },
+      {
+        "trim": "2026 model",
+        "price": 2385000
+      }
+    ],
+    "Hyundai|IONIQ 3": [
+      {
+        "trim": "Select Standart Menzil 107,8 kW (kampanyalı azami fiyat)",
+        "price": 1799000
+      }
+    ],
+    "Hyundai|IONIQ 5": [
+      {
+        "trim": "Dynamic Vision Roof 125 kW 4x2 (kampanyalı azami fiyat)",
+        "price": 3350000
+      }
+    ],
+    "Hyundai|IONIQ 6": [
+      {
+        "trim": "Advance 125 kW 4x2 (kampanyalı azami fiyat)",
+        "price": 3246000
+      }
+    ],
+    "Hyundai|IONIQ 9": [
+      {
+        "trim": "Progressive 160 kW 4x2 (kampanyalı azami fiyat)",
+        "price": 6040000
+      }
+    ],
+    "Kia|EV2": [
+      {
+        "trim": "107,8 kW Otomatik Cool",
+        "price": 1699000,
+        "list": 1769000
+      },
+      {
+        "trim": "107,8 kW Otomatik Elegance",
+        "price": 1899000,
+        "list": 1969000
+      },
+      {
+        "trim": "99,5 kW Otomatik Elegance Long Range",
+        "price": 2079000,
+        "list": 2179000
+      }
+    ],
+    "Kia|Stonic": [
+      {
+        "trim": "1.0L 100 PS DCT Cool",
+        "price": 1855000,
+        "list": 1960000
+      },
+      {
+        "trim": "1.0L 100 PS DCT Elegance",
+        "price": 1895000,
+        "list": 1995000
+      },
+      {
+        "trim": "1.0L 100 PS DCT Prestige",
+        "price": 2190000,
+        "list": 2290000
+      }
+    ],
+    "Renault|Duster": [
+      {
+        "trim": "evolution turbo TCe EDC 145 hp",
+        "price": 1864000,
+        "list": 2050000
+      },
+      {
+        "trim": "evolution Eco G 120 hp",
+        "price": 1865000
+      },
+      {
+        "trim": "techno turbo TCe EDC 145 hp",
+        "price": 2200000
+      },
+      {
+        "trim": "techno E-Tech full hybrid 160 hp",
+        "price": 2725000
+      },
+      {
+        "trim": "evolution hybrid 4x4 150 hp",
+        "price": 2850000
+      },
+      {
+        "trim": "techno hybrid 4x4 150 hp",
+        "price": 2920000
+      }
+    ],
+    "Opel|Mokka": [
+      {
+        "trim": "Edition 1.2 136 HP Benzin MT6",
+        "price": 1572000,
+        "list": 1990000
+      },
+      {
+        "trim": "GS Hybrid 1.2 145 (136 HP) e-DCT6",
+        "price": 2350000
+      }
+    ],
+    "Fiat|Egea Cross": [
+      {
+        "trim": "Street 1.6 MultiJet 130 HP DCT GSR Traction+ Otomatik",
+        "price": 1890900,
+        "list": 1990900
+      },
+      {
+        "trim": "Urban 1.6 MultiJet 130 HP DCT GSR Traction+ Otomatik",
+        "price": 1926900,
+        "list": 2026900
+      },
+      {
+        "trim": "Lounge 1.6 MultiJet 130 HP DCT GSR Traction+ Otomatik",
+        "price": 1962900,
+        "list": 2062900
+      },
+      {
+        "trim": "Limited 1.6 MultiJet 130 HP DCT GSR Traction+ Otomatik",
+        "price": 1999900,
+        "list": 2099900
+      }
+    ],
+    "Ford|Puma Gen-E": [
+      {
+        "trim": "Premium 123 kW (2025)",
+        "price": 2076000
+      },
+      {
+        "trim": "Premium 123 kW",
+        "price": 3088800
+      }
+    ],
+    "Nissan|Juke": [
+      {
+        "trim": "1.0 DIG-T 115PS DCT Tekna Plus",
+        "price": 2036700,
+        "list": 2351600
+      },
+      {
+        "trim": "1.0 DIG-T 115PS DCT Platinum",
+        "price": 2155400,
+        "list": 2620700
+      },
+      {
+        "trim": "1.0 DIG-T 115PS DCT Platinum Premium",
+        "price": 2761400,
+        "list": 2861400
+      }
+    ],
+    "SEAT|Arona": [
+      {
+        "trim": "1.0 TSI 116 PS DSG Style Plus",
+        "price": 2050000
+      }
+    ],
+    "Alfa Romeo|Junior Ibrida": [
+      {
+        "trim": "Core",
+        "price": 2124500
+      },
+      {
+        "trim": "SPECIALE+",
+        "price": 2668200
+      }
+    ],
+    "Suzuki|Vitara": [
+      {
+        "trim": "1.4 MHEV 6AT GL Elegance (Tek Renk)",
+        "price": 2133000,
+        "list": 2178000
+      },
+      {
+        "trim": "1.4 MHEV 6AT GL Elegance (Çift Renk)",
+        "price": 2183000,
+        "list": 2228000
+      },
+      {
+        "trim": "1.4 MHEV 6AT AllGrip GL Elegance (Tek Renk)",
+        "price": 2570000,
+        "list": 2640000
+      },
+      {
+        "trim": "1.4 MHEV 6AT GLX Black Edition (Çift Renk)",
+        "price": 2595000,
+        "list": 2665000
+      },
+      {
+        "trim": "1.4 MHEV 6AT AllGrip GL Elegance (Çift Renk)",
+        "price": 2620000,
+        "list": 2690000
+      },
+      {
+        "trim": "1.4 MHEV 6AT AllGrip GLX Black Edition (Çift Renk)",
+        "price": 2773000,
+        "list": 2823000
+      }
+    ],
+    "Jeep|Avenger": [
+      {
+        "trim": "Summit %100 Elektrikli",
+        "price": 2136000,
+        "list": 2356000
+      },
+      {
+        "trim": "Summit (Yeni Avenger) %100 Elektrikli",
+        "price": 2325000,
+        "list": 2425000
+      }
+    ],
+    "Kia|Sportage": [
+      {
+        "trim": "1.6L 150 PS DCT Live",
+        "price": 2099000,
+        "list": 2249000
+      },
+      {
+        "trim": "1.6L 150 PS DCT Vision",
+        "price": 2387000,
+        "list": 2550000
+      },
+      {
+        "trim": "1.6L 150 PS DCT Cool",
+        "price": 2650000,
+        "list": 2750000
+      },
+      {
+        "trim": "1.6L 150 PS DCT Elegance",
+        "price": 2975000,
+        "list": 3075000
+      },
+      {
+        "trim": "1.6L 150 PS DCT Prestige",
+        "price": 3240000,
+        "list": 3340000
+      },
+      {
+        "trim": "1.6L 180 PS 4X4 DCT GT-Line",
+        "price": 3400000,
+        "list": 3650000
+      }
+    ],
+    "Chery|Tiggo 7": [
+      {
+        "trim": "Comfort 4x2",
+        "price": 2264400
+      },
+      {
+        "trim": "Prestige 4x2",
+        "price": 2672000
+      },
+      {
+        "trim": "Prestige 4x4",
+        "price": 2720000
+      }
+    ],
+    "Peugeot|2008": [
+      {
+        "trim": "ALLURE 1.2 Hybrid 145hp eDCS6",
+        "price": 2353000
+      },
+      {
+        "trim": "GT 1.2 Hybrid 145hp eDCS6",
+        "price": 2632000
+      }
+    ],
+    "Toyota|Yaris Cross": [
+      {
+        "trim": "2026 model başlangıç kampanyalı fiyatı",
+        "price": 2388000,
+        "list": 2868000
+      }
+    ],
+    "Volvo|EX30": [
+      {
+        "trim": "Ultra, P4 Long Range",
+        "price": 2472390
+      },
+      {
+        "trim": "Ultra, P8 AWD",
+        "price": 3789072
+      }
+    ],
+    "Tesla|Model Y": [
+      {
+        "trim": "Arkadan Çekiş",
+        "price": 2474985
+      },
+      {
+        "trim": "Long Range Arkadan Çekiş",
+        "price": 3906000
+      },
+      {
+        "trim": "Long Range Dört Çeker",
+        "price": 4620000
+      },
+      {
+        "trim": "Performance Dört Çeker",
+        "price": 4966500
+      }
+    ],
+    "MG|ZS Hybrid+": [
+      {
+        "trim": "ZS Hybrid+ (tek versiyon)",
+        "price": 2685000
+      }
+    ],
+    "Volkswagen|T-Cross": [
+      {
+        "trim": "Life 1.0 TSI 116 PS Manuel",
+        "price": 2541000
+      },
+      {
+        "trim": "Life 1.0 TSI 116 PS DSG",
+        "price": 2840000
+      },
+      {
+        "trim": "Style 1.0 TSI 116 PS DSG",
+        "price": 3008000
+      },
+      {
+        "trim": "R-Line 1.0 TSI 116 PS DSG",
+        "price": 3123000
+      }
+    ],
+    "BYD|Sealion 7": [
+      {
+        "trim": "390 kW AWD Excellence",
+        "price": 4190000
+      }
+    ],
+    "Audi|Q4 e-tron": [
+      {
+        "trim": "Q4 40 e-tron (2025)",
+        "price": 4249517
+      },
+      {
+        "trim": "Q4 Sportback 40 e-tron (2025)",
+        "price": 4401665
+      },
+      {
+        "trim": "Q4 SUV e-tron",
+        "price": 4832664
+      },
+      {
+        "trim": "Q4 Sportback e-tron",
+        "price": 5000548
+      },
+      {
+        "trim": "Q4 SUV e-tron performance",
+        "price": 6172072
+      },
+      {
+        "trim": "Q4 Sportback e-tron performance",
+        "price": 6361618
+      },
+      {
+        "trim": "Q4 SUV e-tron quattro performance",
+        "price": 6635176
+      },
+      {
+        "trim": "Q4 Sportback e-tron quattro performance",
+        "price": 6824512
+      }
+    ],
+    "BMW|iX1": [
+      {
+        "trim": "iX1 eDrive20 Sport Line",
+        "price": 4304800
+      },
+      {
+        "trim": "iX1 eDrive20 X-Line",
+        "price": 4531200
+      },
+      {
+        "trim": "iX1 eDrive20 M Sport",
+        "price": 4701100
+      }
+    ],
+    "Mercedes-Benz|GLB": [
+      {
+        "trim": "GLB 200+ AMG",
+        "price": 4661000
+      },
+      {
+        "trim": "GLB 220 4MATIC AMG",
+        "price": 5297000
+      }
+    ],
+    "Porsche|Macan": [
+      {
+        "trim": "Macan",
+        "price": 8752146
+      },
+      {
+        "trim": "Macan 4",
+        "price": 9116076
+      },
+      {
+        "trim": "Macan 4S",
+        "price": 9909876
+      },
+      {
+        "trim": "Macan GTS",
+        "price": 11166726
+      },
+      {
+        "trim": "Macan Turbo",
+        "price": 12324246
+      }
+    ],
+    "BYD|SEAL": [
+      {
+        "trim": "Elektrikli sedan",
+        "price": 4077000
+      }
+    ],
+    "BYD|TANG": [
+      {
+        "trim": "Elektrikli SUV · 7 koltuk",
+        "price": 5418000
+      }
+    ],
+    "Dacia|Sandero Stepway": [
+      {
+        "trim": "SUV · benzin / LPG",
+        "price": 1590000
+      }
+    ],
+    "Dacia|Jogger": [
+      {
+        "trim": "5/7 koltuklu aile otomobili",
+        "price": 1564000
+      }
+    ],
+    "Fiat|Grande Panda": [
+      {
+        "trim": "Elektrikli / hibrit",
+        "price": 1584900
+      }
+    ],
+    "Fiat|600": [
+      {
+        "trim": "Hibrit / elektrikli",
+        "price": 1854900
+      }
+    ],
+    "Nissan|Qashqai": [
+      {
+        "trim": "Mild hybrid / e-POWER SUV",
+        "price": 2269000
+      }
+    ],
+    "Nissan|X-Trail": [
+      {
+        "trim": "e-POWER SUV",
+        "price": 4350000
+      }
+    ],
+    "Nissan|Townstar Combi EV": [
+      {
+        "trim": "Elektrikli aile aracı",
+        "price": 2437900
+      }
+    ],
+    "Opel|Frontera": [
+      {
+        "trim": "Hybrid Edition 1.2 145 HP e-DCT6",
+        "price": 1975000,
+        "list": 2190000
+      },
+      {
+        "trim": "Hybrid GS 1.2 145 HP e-DCT6",
+        "price": 2290000
+      }
+    ],
+    "Opel|Frontera Elektrik": [
+      {
+        "trim": "GS 44 kWh",
+        "price": 1895000
+      },
+      {
+        "trim": "GS 54 kWh Uzun Menzil",
+        "price": 2010000
+      }
+    ],
+    "Opel|Mokka GSE": [
+      {
+        "trim": "GSE 207 kW · lansmana özel",
+        "price": 2890000,
+        "list": 3570000
+      }
+    ],
+    "Peugeot|E-208": [
+      {
+        "trim": "Elektrikli hatchback",
+        "price": 2080000
+      }
+    ],
+    "Peugeot|308": [
+      {
+        "trim": "Dizel hatchback",
+        "price": 2360000
+      }
+    ],
+    "Peugeot|5008": [
+      {
+        "trim": "SUV · 7 koltuk",
+        "price": 3426000
+      }
+    ],
+    "Peugeot|Rifter": [
+      {
+        "trim": "Hafif ticari / aile aracı",
+        "price": 1690000
+      }
+    ],
+    "Renault|Clio": [
+      {
+        "trim": "Benzinli hatchback",
+        "price": 1715000
+      }
+    ],
+    "Renault|Captur": [
+      {
+        "trim": "Hibrit SUV",
+        "price": 2325000
+      }
+    ],
+    "Renault|Austral": [
+      {
+        "trim": "Hibrit SUV",
+        "price": 2900000
+      }
+    ],
+    "Renault|Megane Sedan": [
+      {
+        "trim": "Sedan",
+        "price": 2199000
+      }
+    ],
+    "Renault|Megane E-Tech": [
+      {
+        "trim": "Elektrikli hatchback",
+        "price": 2386000
+      }
+    ],
+    "Renault|Renault 5 E-Tech": [
+      {
+        "trim": "Elektrikli hatchback",
+        "price": 2101000
+      }
+    ],
+    "Renault|Scenic E-Tech": [
+      {
+        "trim": "Elektrikli SUV",
+        "price": 3490000
+      }
+    ],
+    "Renault|Rafale": [
+      {
+        "trim": "Full hybrid SUV-coupé",
+        "price": 4050000
+      }
+    ],
+    "Renault|Boreal": [
+      {
+        "trim": "Hibrit SUV",
+        "price": 2269000
+      }
+    ],
+    "SEAT|Ibiza": [
+      {
+        "trim": "Hatchback",
+        "price": 1985000
+      }
+    ],
+    "SEAT|Leon": [
+      {
+        "trim": "Hatchback · hibrit / PHEV",
+        "price": 2560000
+      }
+    ],
+    "Toyota|Yaris": [
+      {
+        "trim": "Hibrit hatchback",
+        "price": 2080000
+      }
+    ],
+    "Toyota|Corolla Hatchback": [
+      {
+        "trim": "Hibrit hatchback",
+        "price": 2230000
+      }
+    ],
+    "Toyota|Corolla Cross": [
+      {
+        "trim": "Hibrit SUV",
+        "price": 2899000
+      }
+    ],
+    "Toyota|C-HR": [
+      {
+        "trim": "Hibrit SUV",
+        "price": 2400000
+      }
+    ],
+    "Toyota|Land Cruiser Prado": [
+      {
+        "trim": "Mild hybrid SUV",
+        "price": 14750000
+      }
+    ],
+    "Toyota|Hilux": [
+      {
+        "trim": "Pick-up",
+        "price": 3990000
+      }
+    ],
+    "Togg|T10F": [
+      {
+        "trim": "V1 RWD Standart Menzil",
+        "price": 1884980
+      },
+      {
+        "trim": "V1 RWD Uzun Menzil",
+        "price": 2195600
+      },
+      {
+        "trim": "V2 RWD Uzun Menzil",
+        "price": 2370930
+      },
+      {
+        "trim": "V2 4More",
+        "price": 3217937
+      }
+    ],
+    "Honda|Jazz": [
+      {
+        "trim": "e:HEV hibrit hatchback",
+        "price": 2380000
+      }
+    ],
+    "Honda|HR-V": [
+      {
+        "trim": "e:HEV hibrit SUV",
+        "price": 2600000
+      }
+    ],
+    "Honda|Prelude": [
+      {
+        "trim": "e:HEV hibrit coupé",
+        "price": 5400000
+      }
+    ],
+    "Honda|ZR-V": [
+      {
+        "trim": "e:HEV hibrit SUV",
+        "price": 5530000
+      }
+    ],
+    "Honda|CR-V": [
+      {
+        "trim": "e:HEV hibrit SUV",
+        "price": 6345000
+      }
+    ],
+    "Volvo|EX40": [
+      {
+        "trim": "Elektrikli SUV",
+        "price": 4453361
+      }
+    ],
+    "Volvo|EC40": [
+      {
+        "trim": "Elektrikli crossover",
+        "price": 4552406
+      }
+    ],
+    "Volvo|ES90": [
+      {
+        "trim": "Elektrikli sedan",
+        "price": 7027440
+      }
+    ],
+    "Volvo|XC60": [
+      {
+        "trim": "Mild hybrid / plug-in hybrid SUV",
+        "price": 7271014
+      }
+    ],
+    "Volvo|XC90": [
+      {
+        "trim": "Mild hybrid / plug-in hybrid SUV",
+        "price": 11172038
+      }
+    ],
+    "Volvo|V60": [
+      {
+        "trim": "Mild hybrid estate",
+        "price": 5937559
+      }
+    ],
+    "Toyota|Corolla": [
+      {
+        "trim": "1.5 Vision Plus Multidrive S",
+        "price": 1965000,
+        "list": 2545500
+      },
+      {
+        "trim": "1.5 Dream Multidrive S",
+        "price": 2150000,
+        "list": 2753500
+      },
+      {
+        "trim": "1.5 Dream X-Pack Multidrive S",
+        "price": 2275000,
+        "list": 2905000
+      },
+      {
+        "trim": "1.5 Flame X-Pack Multidrive S",
+        "price": 2335000,
+        "list": 3126000
+      },
+      {
+        "trim": "1.5 Passion X-Pack Multidrive S",
+        "price": 2630000,
+        "list": 3297500
+      },
+      {
+        "trim": "1.8 Hybrid Dream e-CVT",
+        "price": 2968000
+      },
+      {
+        "trim": "1.8 Hybrid Dream-X-Pack e-CVT",
+        "price": 2540000,
+        "list": 3053000
+      },
+      {
+        "trim": "1.8 Hybrid Flame X-Pack e-CVT",
+        "price": 2775000,
+        "list": 3297000
+      }
+    ]
+  }
+}

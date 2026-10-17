@@ -1,0 +1,802 @@
+[
+  {
+    "brand": "Dacia",
+    "model": "Logan"
+  },
+  {
+    "brand": "Dacia",
+    "model": "Sandero"
+  },
+  {
+    "brand": "Opel",
+    "model": "Corsa"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Egea Sedan"
+  },
+  {
+    "brand": "Kia",
+    "model": "Picanto"
+  },
+  {
+    "brand": "Citroën",
+    "model": "ë-C3 Aircross"
+  },
+  {
+    "brand": "Ford",
+    "model": "Puma"
+  },
+  {
+    "brand": "Togg",
+    "model": "T10X"
+  },
+  {
+    "brand": "Škoda",
+    "model": "Kamiq"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Bayon"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Inster"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i20"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i30"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "KONA"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "KONA Elektrik"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "TUCSON"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "TUCSON Hibrit"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "IONIQ 3"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "IONIQ 5"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "IONIQ 5 N"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "IONIQ 6"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "IONIQ 9"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "SANTA FE Hibrit"
+  },
+  {
+    "brand": "Kia",
+    "model": "EV2"
+  },
+  {
+    "brand": "Kia",
+    "model": "Stonic"
+  },
+  {
+    "brand": "Renault",
+    "model": "Duster"
+  },
+  {
+    "brand": "Opel",
+    "model": "Mokka"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Egea Cross"
+  },
+  {
+    "brand": "Ford",
+    "model": "Puma Gen-E"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Juke"
+  },
+  {
+    "brand": "SEAT",
+    "model": "Arona"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Junior Ibrida"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Vitara"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Avenger"
+  },
+  {
+    "brand": "Kia",
+    "model": "Sportage"
+  },
+  {
+    "brand": "Chery",
+    "model": "Tiggo 7"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "2008"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Yaris Cross"
+  },
+  {
+    "brand": "Volvo",
+    "model": "EX30"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Model Y"
+  },
+  {
+    "brand": "MG",
+    "model": "ZS Hybrid+"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "T-Cross"
+  },
+  {
+    "brand": "BYD",
+    "model": "Sealion 7"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q4 e-tron"
+  },
+  {
+    "brand": "BMW",
+    "model": "iX1"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "GLB"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Macan"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Tonale"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Junior Elettrica"
+  },
+  {
+    "brand": "Audi",
+    "model": "A3"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 e-tron"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q2"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q3"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q6 e-tron"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q8"
+  },
+  {
+    "brand": "Audi",
+    "model": "e-tron GT"
+  },
+  {
+    "brand": "BMW",
+    "model": "1 Serisi"
+  },
+  {
+    "brand": "BMW",
+    "model": "2 Serisi"
+  },
+  {
+    "brand": "BMW",
+    "model": "3 Serisi"
+  },
+  {
+    "brand": "BMW",
+    "model": "4 Serisi"
+  },
+  {
+    "brand": "BMW",
+    "model": "5 Serisi"
+  },
+  {
+    "brand": "BMW",
+    "model": "7 Serisi"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1"
+  },
+  {
+    "brand": "BMW",
+    "model": "X2"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5"
+  },
+  {
+    "brand": "BMW",
+    "model": "X6"
+  },
+  {
+    "brand": "BMW",
+    "model": "X7"
+  },
+  {
+    "brand": "BMW",
+    "model": "i4"
+  },
+  {
+    "brand": "BMW",
+    "model": "i5"
+  },
+  {
+    "brand": "BMW",
+    "model": "i7"
+  },
+  {
+    "brand": "BMW",
+    "model": "iX2"
+  },
+  {
+    "brand": "BMW",
+    "model": "iX3"
+  },
+  {
+    "brand": "BMW",
+    "model": "iX"
+  },
+  {
+    "brand": "BYD",
+    "model": "ATTO 2"
+  },
+  {
+    "brand": "BYD",
+    "model": "ATTO 3"
+  },
+  {
+    "brand": "BYD",
+    "model": "SEAL"
+  },
+  {
+    "brand": "BYD",
+    "model": "SEAL U DM-i"
+  },
+  {
+    "brand": "BYD",
+    "model": "TANG"
+  },
+  {
+    "brand": "Chery",
+    "model": "Tiggo 8"
+  },
+  {
+    "brand": "Citroën",
+    "model": "ë-C3"
+  },
+  {
+    "brand": "Citroën",
+    "model": "C3 Aircross Hybrid"
+  },
+  {
+    "brand": "Citroën",
+    "model": "C4"
+  },
+  {
+    "brand": "Citroën",
+    "model": "ë-C4"
+  },
+  {
+    "brand": "Citroën",
+    "model": "C4 X"
+  },
+  {
+    "brand": "Citroën",
+    "model": "ë-C4 X"
+  },
+  {
+    "brand": "Citroën",
+    "model": "C5 Aircross Hybrid"
+  },
+  {
+    "brand": "Citroën",
+    "model": "ë-C5 Aircross"
+  },
+  {
+    "brand": "Dacia",
+    "model": "Sandero Stepway"
+  },
+  {
+    "brand": "Dacia",
+    "model": "Jogger"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Grande Panda"
+  },
+  {
+    "brand": "Fiat",
+    "model": "600"
+  },
+  {
+    "brand": "Fiat",
+    "model": "500e"
+  },
+  {
+    "brand": "Fiat",
+    "model": "Topolino"
+  },
+  {
+    "brand": "Ford",
+    "model": "Kuga"
+  },
+  {
+    "brand": "Ford",
+    "model": "Explorer"
+  },
+  {
+    "brand": "Ford",
+    "model": "Capri"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang Mach-E"
+  },
+  {
+    "brand": "Jeep",
+    "model": "Compass"
+  },
+  {
+    "brand": "Kia",
+    "model": "XCeed"
+  },
+  {
+    "brand": "Kia",
+    "model": "Niro EV"
+  },
+  {
+    "brand": "Kia",
+    "model": "EV3"
+  },
+  {
+    "brand": "Kia",
+    "model": "EV6"
+  },
+  {
+    "brand": "Kia",
+    "model": "EV9"
+  },
+  {
+    "brand": "Kia",
+    "model": "Seltos"
+  },
+  {
+    "brand": "Kia",
+    "model": "Sorento"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "A-Serisi"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "C-Serisi"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "E-Serisi"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "CLA"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "GLA"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "GLC"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "GLE"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "G-Serisi"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "EQA"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "EQE SUV"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "EQS"
+  },
+  {
+    "brand": "MG",
+    "model": "HS"
+  },
+  {
+    "brand": "MG",
+    "model": "HS Hybrid+"
+  },
+  {
+    "brand": "MG",
+    "model": "MG4"
+  },
+  {
+    "brand": "MG",
+    "model": "Cyberster"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Qashqai"
+  },
+  {
+    "brand": "Nissan",
+    "model": "X-Trail"
+  },
+  {
+    "brand": "Nissan",
+    "model": "Townstar Combi EV"
+  },
+  {
+    "brand": "Opel",
+    "model": "Frontera"
+  },
+  {
+    "brand": "Opel",
+    "model": "Astra"
+  },
+  {
+    "brand": "Opel",
+    "model": "Grandland"
+  },
+  {
+    "brand": "Opel",
+    "model": "Corsa Elektrik"
+  },
+  {
+    "brand": "Opel",
+    "model": "Frontera Elektrik"
+  },
+  {
+    "brand": "Opel",
+    "model": "Mokka GSE"
+  },
+  {
+    "brand": "Opel",
+    "model": "Grandland Elektrik"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "E-208"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "308"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "408"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "E-2008"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "3008"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "E-3008"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "5008"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "E-5008"
+  },
+  {
+    "brand": "Peugeot",
+    "model": "Rifter"
+  },
+  {
+    "brand": "Porsche",
+    "model": "911"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Taycan"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne"
+  },
+  {
+    "brand": "Porsche",
+    "model": "718"
+  },
+  {
+    "brand": "Renault",
+    "model": "Clio"
+  },
+  {
+    "brand": "Renault",
+    "model": "Captur"
+  },
+  {
+    "brand": "Renault",
+    "model": "Austral"
+  },
+  {
+    "brand": "Renault",
+    "model": "Megane Sedan"
+  },
+  {
+    "brand": "Renault",
+    "model": "Megane E-Tech"
+  },
+  {
+    "brand": "Renault",
+    "model": "Renault 5 E-Tech"
+  },
+  {
+    "brand": "Renault",
+    "model": "Scenic E-Tech"
+  },
+  {
+    "brand": "Renault",
+    "model": "Rafale"
+  },
+  {
+    "brand": "Renault",
+    "model": "Boreal"
+  },
+  {
+    "brand": "SEAT",
+    "model": "Ibiza"
+  },
+  {
+    "brand": "SEAT",
+    "model": "Leon"
+  },
+  {
+    "brand": "SEAT",
+    "model": "Ateca"
+  },
+  {
+    "brand": "Škoda",
+    "model": "Fabia"
+  },
+  {
+    "brand": "Škoda",
+    "model": "Scala"
+  },
+  {
+    "brand": "Škoda",
+    "model": "Octavia"
+  },
+  {
+    "brand": "Škoda",
+    "model": "Superb"
+  },
+  {
+    "brand": "Škoda",
+    "model": "Karoq"
+  },
+  {
+    "brand": "Škoda",
+    "model": "Kodiaq"
+  },
+  {
+    "brand": "Škoda",
+    "model": "Elroq"
+  },
+  {
+    "brand": "Škoda",
+    "model": "Enyaq"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "S-Cross"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Swift"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Yaris"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Corolla Hatchback"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Corolla Cross"
+  },
+  {
+    "brand": "Toyota",
+    "model": "C-HR"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Land Cruiser Prado"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Hilux"
+  },
+  {
+    "brand": "Togg",
+    "model": "T10F"
+  },
+  {
+    "brand": "Honda",
+    "model": "Jazz"
+  },
+  {
+    "brand": "Honda",
+    "model": "HR-V"
+  },
+  {
+    "brand": "Honda",
+    "model": "Prelude"
+  },
+  {
+    "brand": "Honda",
+    "model": "ZR-V"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Polo"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Golf"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Taigo"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "T-Roc"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "ID.4"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "ID.7"
+  },
+  {
+    "brand": "Volvo",
+    "model": "EX40"
+  },
+  {
+    "brand": "Volvo",
+    "model": "EC40"
+  },
+  {
+    "brand": "Volvo",
+    "model": "ES90"
+  },
+  {
+    "brand": "Volvo",
+    "model": "XC60"
+  },
+  {
+    "brand": "Volvo",
+    "model": "XC90"
+  },
+  {
+    "brand": "Volvo",
+    "model": "V60"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Corolla"
+  }
+]
