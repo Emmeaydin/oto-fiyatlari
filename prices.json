@@ -1,5 +1,5 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-10-17T06:10:06+00:00",
   "prices": {
     "Dacia|Logan": [
       {
@@ -517,7 +517,7 @@
     "BYD|Sealion 7": [
       {
         "trim": "390 kW AWD Excellence",
-        "price": 4190000
+        "price": 754190000
       }
     ],
     "Audi|Q4 e-tron": [
@@ -609,7 +609,7 @@
     "BYD|TANG": [
       {
         "trim": "Elektrikli SUV · 7 koltuk",
-        "price": 5418000
+        "price": 755418000
       }
     ],
     "Dacia|Sandero Stepway": [
@@ -933,5 +933,6 @@
         "list": 3297000
       }
     ]
-  }
+  },
+  "checkedAt": "2026-10-17T06:10:06+00:00"
 }
