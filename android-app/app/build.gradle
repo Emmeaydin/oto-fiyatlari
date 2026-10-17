@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.emmeaydin.otofiyatlari'
-    compileSdk 37
+    compileSdk 36
 
     defaultConfig {
         applicationId 'com.emmeaydin.otofiyatlari'
